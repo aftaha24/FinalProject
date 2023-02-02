@@ -20,7 +20,7 @@ class OrderPage extends StatefulWidget {
 class _OrderPageState extends State<OrderPage> {
 
 
-List<String> productName = ['Cornflakes' , 'Apple' , 'Grapes' , 'Banana' , 'Bread' , 'Peach','Mixed Fruit',] ;
+ List<String> productName = ['Cornflakes' , 'Apple' , 'Grapes' , 'Banana' , 'Bread' , 'Peach','Mixed Fruit',] ;
   List<String> productUnit = ['Box' , 'Dozen' , 'KG' , 'Dozen' , 'Packet' , 'KG','KG',] ;
   List<int> productPrice = [10, 15 , 20 , 12 , 5, 25 , 40 ] ;
   List<String> productImage = [
@@ -32,6 +32,7 @@ List<String> productName = ['Cornflakes' , 'Apple' , 'Grapes' , 'Banana' , 'Brea
     'https://static.libertyprim.com/files/familles/peche-large.jpg?1574630286' ,
     'https://thumbs.dreamstime.com/b/colorful-fruit-mix-fruits-close-up-image-isolated-white-background-31297821.jpg' ,
   ] ;
+
 
   Db? db = Db();
 

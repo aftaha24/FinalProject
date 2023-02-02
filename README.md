@@ -17,7 +17,7 @@
 7. Report Writing
 
 --Najmi Saniy--
-1. Cart screen.
+1. Payment Screen.
 2. Order Page screen.
 
 
@@ -38,6 +38,7 @@ Our application is a platform where user can register and do their grocery shopp
 3. Flutterfire plugin.
 4. Firebase Authentication by email.
 5. Listview feature for available products with their price.
+6. Listview of the items when order placed.
 
 ## Screen navigation (routing) and widgets (UI and reusable widget) implementation
 

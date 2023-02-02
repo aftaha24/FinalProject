@@ -63,7 +63,7 @@ class HomeBottomButton extends StatelessWidget{
             
             InkWell(
               onTap: (){
-                Navigator.push(context,MaterialPageRoute(builder: (context) => CartScreen()));
+                Navigator.pushNamed(context, "ordered");
               },
               child: Column(
                 children: [

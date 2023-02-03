@@ -8,13 +8,14 @@
 ## Contribution
 
 --Aftaha Ahmed--
-1. User UI design
-2. Login & Register Page
-3. Homepage
-4. Product Description Page
-5. Available product page
-6. Authentication
-7. Report Writing
+1. User UI design.
+2. Login & Register Page.
+3. Homepage.
+4. Product Description Page.
+5. Available product page.
+6. User Authentication.
+7. Report Writing.
+8. Cart Screen and reusable widget functionalities.
 
 --Najmi Saniy--
 1. Payment Screen.

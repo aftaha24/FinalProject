@@ -72,6 +72,7 @@ class _MyApp extends State<MyApp> {
               "itemPage4":(context) => ItemPage4(),
               "orderPage":(context) => const OrderPage(),
               "cartpage":(context) => const CartScreen(),
+              "payment":(context) =>Payment(),
               "ordered":(context) =>Ordered(),
             }
           );

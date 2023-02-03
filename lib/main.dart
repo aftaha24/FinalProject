@@ -14,6 +14,8 @@ import 'package:grocery/pages/register.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'pages/ItemPage1.dart';
+import 'package:grocery/pages/Ordered.dart';
+import 'package:grocery/pages/payment.dart';
 
 Future main() async{
   WidgetsFlutterBinding.ensureInitialized;
